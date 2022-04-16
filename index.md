@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Jonathan Haro ePortfolio
 
 You can use the [editor on GitHub](https://github.com/Haro-SNHU/ePortfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
