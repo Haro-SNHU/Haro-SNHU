@@ -1,5 +1,58 @@
 # Jonathan Haro ePortfolio
 
+## Introduction
+
+...
+
+## Professional Self-Assessment
+
+...
+
+...
+
+...
+
+
+
+## Code Review
+<iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+>During the course, we were asked to perform an in-depth code review on our project that we selected for enhancement.
+
+## Software Design and Engineering Enhancement
+
+[Please click here or on the image above to see the code for this project](https://github.com/Haro-SNHU/WeatherStation)
+
+...
+
+...
+
+...
+
+## Algorithms and Data Structure
+
+[Please click here or on the image above to see the code for this project](https://github.com/Haro-SNHU/eBids)
+
+...
+
+...
+
+...
+
+## Databases
+
+[Please click here or on the image above to see the code for this project](https://github.com/Haro-SNHU/WeatherStationDB)
+
+...
+
+...
+
+...
+
+
+
+
+
 You can use the [editor on GitHub](https://github.com/Haro-SNHU/ePortfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
