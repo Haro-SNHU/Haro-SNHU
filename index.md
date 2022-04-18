@@ -1,5 +1,13 @@
 # Jonathan Haro ePortfolio
 
+### Table of contents
+* [Introduction](#Introduction)
+* [Professional Self-Assessment](#Professional Self-Assessment)
+* [Code Review](#Code Review)
+* [Software Design and Engineering Enhancement](#Software Design and Engineering Enhancementt)
+* [Algorithms and Data Structure](#Algorithms and Data Structure)
+* [Databases](#Databases)
+
 ## Introduction
 
 ...
@@ -19,9 +27,7 @@ During the course, we were asked to perform an in-depth code review on our proje
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TKE2-ZWO3fQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Software Design and Engineering Enhancement
-
-[Please click here or on the image above to see the code for this project](https://github.com/Haro-SNHU/WeatherStation)
+## [Software Design and Engineering Enhancement](https://github.com/Haro-SNHU/WeatherStation)
 
 The name of the artifact is called WeatherStation which was a project I worked on as part of my CS-350 course which covered system architecture. The WeatherStation artifact is an application written in Python that tracks the temperature of a room using RaspberryPi and GrovePi sensors. The application captures the temperature during daytime hours and stores the data which is then displayed on a simple web page.
 
@@ -29,9 +35,7 @@ I choose this artifact because I enjoyed working with embedded systems like the 
 
 I enjoyed enhancing this artifact, it had been a while since I worked with a Python application, so it took a while to regain familiarity. I struggled in two areas the first was creating the CSV, the CSVs I was creating were not properly formatted but after a few trials and errors, I was able to create a properly formatted CSV. The second area I struggled with was with the email service. I had never worked with an email service before, so I had to learn how to do that. But there were many resources online that helped me figure it out.
 
-## Algorithms and Data Structure
-
-[Please click here or on the image above to see the code for this project](https://github.com/Haro-SNHU/eBids)
+## [Algorithms and Data Structure](https://github.com/Haro-SNHU/eBids)
 
 The name of the artifact is eBid_Monthly_Sales which was a project I worked on as part of my CS-260 course which covered algorithms and data structures. The eBid_Monthly_Sales is a C++ application that allows a user to load a CSV and interact with it. They can do simple actions such as search for bids based on Id, add new bids, display all bids, and delete bids.
 
@@ -39,20 +43,10 @@ I chose this artifact because this application was a perfect vessel to showcase 
 
 Working on this artifact was fun and challenging, C++ is the language I have worked with the least, so it took some time to get reacclimated with the syntax. I also had the opportunity to revisit and review different data structures as well as revisit the concept of Big O notation.
 
-## Databases
-
-[Please click here or on the image above to see the code for this project](https://github.com/Haro-SNHU/WeatherStationDB)
+## [Databases](https://github.com/Haro-SNHU/WeatherStationDB)
 
 The name of the artifact is called WeatherStation which was a project I worked on as part of my CS-350 course which covered system architecture. The WeatherStation artifact is an application written in Python that tracks the temperature of a room using RaspberryPi and GrovePi sensors. The application captures the temperature during daytime hours and stores the data in a JSON file which is then displayed on a simple web page.
 
 I choose this artifact because as part of this application the data being collected is stored in a JSON file. However, it would be more practical to store the data in a database. This makes the data more accessible by allowing the ability to create an interface with the database, therefore, making the data to be interactive. For my enhancement of this artifact, I added a mongo database to store the data and an interface to show the data via an interactive table. This showcases my ability to create applications with databases as well as my ability to create simple web pages that allow users to interact with the data from the database. Additionally, I also implemented dependency injection to keep passwords and other sensitive data from being stored in plain text.
 
 Working on this artifact allowed me to work on a mongo database which I had not worked on for a while. I also got to work with a new framework “Streamlit” which is a library that allows you to build and ship applications. It was a challenge having to learn this new framework but it was worth it as it not only did the job but I can see myself using this library again in the future.
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Haro-SNHU/ePortfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
