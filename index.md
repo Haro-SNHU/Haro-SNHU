@@ -10,7 +10,7 @@
 
 ## Introduction
 
-...
+This ePortfolio is a show case of projects and enhancements that I completed during my time at Southern New Hampshire Univeristy. In the ePortifloiio you will find three artifacts that were enhanced, a code review of these artifacts, and a self refelction. The enhancements were in relation to three focus areas, Software Design and Engineering, Algorithms and Data Structures, and Databases.
 
 ## Professional Self-Assessment
 
@@ -23,7 +23,7 @@
 
 ## Code Review
 
-During the course, we were asked to perform an in-depth code review on our project that we selected for enhancement.
+During the course, we were asked to perform an in-depth code review on each project for all enhancements. The code review goes through each of the three artifacts and looks for security flaws and areas for improvements.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TKE2-ZWO3fQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
