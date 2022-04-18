@@ -2,10 +2,10 @@
 
 ### Table of contents
 * [Introduction](#Introduction)
-* [Professional Self-Assessment](#Professional Self-Assessment)
-* [Code Review](#Code Review)
-* [Software Design and Engineering Enhancement](#Software Design and Engineering Enhancementt)
-* [Algorithms and Data Structure](#Algorithms and Data Structure)
+* [Professional Self-Assessment](#Professional-Self-Assessment)
+* [Code Review](#Code-Review)
+* [Software Design and Engineering Enhancement](#Software-Design-and-Engineering-Enhancementt)
+* [Algorithms and Data Structure](#Algorithms-and-Data-Structure)
 * [Databases](#Databases)
 
 ## Introduction
