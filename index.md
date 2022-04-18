@@ -14,11 +14,25 @@ This ePortfolio is a show case of projects and enhancements that I completed dur
 
 ## Professional Self-Assessment
 
-...
+A. Discuss how completing your coursework throughout the program and developing the ePortfolio has helped showcased your strengths and
+shape your professional goals and values and prepared you to either enter or become more employable in the computer science field. Use
+specific examples from your program and include examples outside of the artifacts included in your ePortfolio. Please address following topics:
+collaborating in a team environment, communicating to stakeholders, data structures and algorithms, software engineering and database,
+and security. Note: This should function as an overall introduction to your skills and you will become more specific relative to the included
+artifacts in the next section.
 
-...
+The Southern New Hampshire University computer science program allowed me to gain the necessary skills to pursue a career in software development. The courses I took exposed me to various computer science concepts such as security and best practices, databases, data structures and algorithms, communicating to stakeholders and collaborating in a team environment. As part of the requirements to complete the degree we were asked to build a ePortfolio that higlights and showcases some of projects I was able to work on. 
 
-...
+As a software developer we are often part of team of software developers working together to deliver knew software and features. In order to do so effectively it is important to work on your communication skills and learn important processes such as agile. This will no only allow for better communication but also allow for a streamline process that facilitates a better design, implementation and deployment of a feature. In addtion to agile another important comllaborative tools is git. Git is a distriubuted version control system that allows for software developments teams to work 
+
+
+
+
+
+
+B. Summarize/introduce how your artifacts fit together and inform the portfolio as a whole; this will help demonstrate the full range of your
+computer science talents and abilities? This section should introduce your audience to the technical artifacts that will follow the professional
+self-assessment.
 
 
 ## Code Review
